@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1645878643235,
+  "timestamp": 1645878870498,
   "index": "https://moaalaa.github.io/modules-list/index.html",
   "assetGroups": [
     {
@@ -62,6 +62,7 @@
         "https://moaalaa.github.io/modules-list/assets/icons/favicon-16x16.png",
         "https://moaalaa.github.io/modules-list/assets/icons/favicon-32x32.png",
         "https://moaalaa.github.io/modules-list/assets/icons/favicon.ico",
+        "https://moaalaa.github.io/modules-list/assets/icons/logo-1.png",
         "https://moaalaa.github.io/modules-list/assets/icons/mstile-144x144.png",
         "https://moaalaa.github.io/modules-list/assets/icons/mstile-150x150.png",
         "https://moaalaa.github.io/modules-list/assets/icons/safari-pinned-tab.svg",
@@ -175,6 +176,7 @@
     "https://moaalaa.github.io/modules-list/assets/icons/favicon-16x16.png": "88bafba47163c2f5a29b1eaec16d0ce344593d40",
     "https://moaalaa.github.io/modules-list/assets/icons/favicon-32x32.png": "91bd0c51d880240ccb62149774d9397acac3525a",
     "https://moaalaa.github.io/modules-list/assets/icons/favicon.ico": "1569375a07ca1c08c41e01b9485c0727d9d9bfe3",
+    "https://moaalaa.github.io/modules-list/assets/icons/logo-1.png": "a7c8f60109ceee1444512c3b2c87030db60cfc1d",
     "https://moaalaa.github.io/modules-list/assets/icons/mstile-144x144.png": "26734f0ed65915cdcae9132518df971871e20037",
     "https://moaalaa.github.io/modules-list/assets/icons/mstile-150x150.png": "e143f8fc440914fd4412db4c996ca82379ea88a3",
     "https://moaalaa.github.io/modules-list/assets/icons/safari-pinned-tab.svg": "2c29db84eeec416ae54a7aef71f616bbbf6592fc",
@@ -249,7 +251,7 @@
     "https://moaalaa.github.io/modules-list/fa-solid-900.4d89f871fc935957.svg": "c3b7af3be8b2b81e96582c26bd14381d437ecc1e",
     "https://moaalaa.github.io/modules-list/fa-solid-900.91c80f256c9c6e95.woff2": "07bed153d47f9129a944ee54dd72952deed074c8",
     "https://moaalaa.github.io/modules-list/fa-solid-900.93de309faaf03dc9.woff": "0f6fcbf47ded1a1c6ace0f67383d512b6a053dad",
-    "https://moaalaa.github.io/modules-list/index.html": "b1b67d549010bba240ffeff28bd54c2dee6de0fa",
+    "https://moaalaa.github.io/modules-list/index.html": "482373dec23a379a7474f09645a3263097940c37",
     "https://moaalaa.github.io/modules-list/main.f0c9801e1b2ae11d.js": "1da9b1bbd45849af50d91bb4275c6d62032731ed",
     "https://moaalaa.github.io/modules-list/manifest.webmanifest": "418d83c5e6eb278643767297dd2fb54266b0f3a9",
     "https://moaalaa.github.io/modules-list/polyfills.7ac65819d01efa02.js": "b7beee993ce35b2f06c1c14661ff3c4af9201797",
