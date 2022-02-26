@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1645878280853,
+  "timestamp": 1645878643235,
   "index": "https://moaalaa.github.io/modules-list/index.html",
   "assetGroups": [
     {
@@ -11,9 +11,8 @@
         "ignoreVary": true
       },
       "urls": [
-        "https://moaalaa.github.io/modules-list/assets/icons/favicon.ico",
         "https://moaalaa.github.io/modules-list/index.html",
-        "https://moaalaa.github.io/modules-list/main.3013198bbffe21fd.js",
+        "https://moaalaa.github.io/modules-list/main.f0c9801e1b2ae11d.js",
         "https://moaalaa.github.io/modules-list/manifest.webmanifest",
         "https://moaalaa.github.io/modules-list/polyfills.7ac65819d01efa02.js",
         "https://moaalaa.github.io/modules-list/runtime.1519aabf271eacec.js",
@@ -62,6 +61,7 @@
         "https://moaalaa.github.io/modules-list/assets/icons/browserconfig.xml",
         "https://moaalaa.github.io/modules-list/assets/icons/favicon-16x16.png",
         "https://moaalaa.github.io/modules-list/assets/icons/favicon-32x32.png",
+        "https://moaalaa.github.io/modules-list/assets/icons/favicon.ico",
         "https://moaalaa.github.io/modules-list/assets/icons/mstile-144x144.png",
         "https://moaalaa.github.io/modules-list/assets/icons/mstile-150x150.png",
         "https://moaalaa.github.io/modules-list/assets/icons/safari-pinned-tab.svg",
@@ -171,7 +171,7 @@
     "https://moaalaa.github.io/modules-list/assets/icons/apple-touch-icon-76x76.png": "c61aec4b0f92fa57f21a4caa91311489e3131ea4",
     "https://moaalaa.github.io/modules-list/assets/icons/apple-touch-icon-precomposed.png": "1bcf1e256526defdd334cbf4f53c726f87482470",
     "https://moaalaa.github.io/modules-list/assets/icons/apple-touch-icon.png": "0e42d1f1e3ea960fa5fd585c6f55b8c40a907eb7",
-    "https://moaalaa.github.io/modules-list/assets/icons/browserconfig.xml": "257ed0706c167978bd9ad4384a53e6768eba3b93",
+    "https://moaalaa.github.io/modules-list/assets/icons/browserconfig.xml": "118683663b154c9b1788594158aa1e31cca5dacc",
     "https://moaalaa.github.io/modules-list/assets/icons/favicon-16x16.png": "88bafba47163c2f5a29b1eaec16d0ce344593d40",
     "https://moaalaa.github.io/modules-list/assets/icons/favicon-32x32.png": "91bd0c51d880240ccb62149774d9397acac3525a",
     "https://moaalaa.github.io/modules-list/assets/icons/favicon.ico": "1569375a07ca1c08c41e01b9485c0727d9d9bfe3",
@@ -249,9 +249,9 @@
     "https://moaalaa.github.io/modules-list/fa-solid-900.4d89f871fc935957.svg": "c3b7af3be8b2b81e96582c26bd14381d437ecc1e",
     "https://moaalaa.github.io/modules-list/fa-solid-900.91c80f256c9c6e95.woff2": "07bed153d47f9129a944ee54dd72952deed074c8",
     "https://moaalaa.github.io/modules-list/fa-solid-900.93de309faaf03dc9.woff": "0f6fcbf47ded1a1c6ace0f67383d512b6a053dad",
-    "https://moaalaa.github.io/modules-list/index.html": "3cfafd281eb96524d75ed2a9c81a06a9d27d0c6b",
-    "https://moaalaa.github.io/modules-list/main.3013198bbffe21fd.js": "106af36ea60e38f51bc7aa713bf6b72958ea5327",
-    "https://moaalaa.github.io/modules-list/manifest.webmanifest": "55c63f3da6916c1d9548b7bc6feb487996a3bbb0",
+    "https://moaalaa.github.io/modules-list/index.html": "b1b67d549010bba240ffeff28bd54c2dee6de0fa",
+    "https://moaalaa.github.io/modules-list/main.f0c9801e1b2ae11d.js": "1da9b1bbd45849af50d91bb4275c6d62032731ed",
+    "https://moaalaa.github.io/modules-list/manifest.webmanifest": "418d83c5e6eb278643767297dd2fb54266b0f3a9",
     "https://moaalaa.github.io/modules-list/polyfills.7ac65819d01efa02.js": "b7beee993ce35b2f06c1c14661ff3c4af9201797",
     "https://moaalaa.github.io/modules-list/runtime.1519aabf271eacec.js": "ac59ed83366882e488a31d2df170981553b7e32e",
     "https://moaalaa.github.io/modules-list/scripts.f3c4b92b7ba10d63.js": "e8687b4bc9b322757d1cf706cdebb7b39b2de075",
