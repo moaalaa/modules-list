@@ -1,0 +1,11 @@
+<div class="card sticky-top top-1rem my-3">
+
+    <div class="card-body text-center">
+        <h4 class="card-title">Total: {{ selected_modules_totals | currency:'EGP '}} </h4>
+        
+        <hr class="mb-2"/>
+
+        <button type="button" class="btn {{ hasError ? 'btn-danger' : 'btn-success' }} btn-block" (click)="sendRequest()">Send a Request for ({{  selected_modules.length }}) modules</button>
+    </div>
+
+</div>

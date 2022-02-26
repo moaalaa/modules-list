@@ -1,0 +1,21 @@
+<div class="card py-2 px-2 modules-container {{ selected ? 'border-primary text-primary animate-scale' : '' }}" (click)="select()">
+    <div class="row">
+        <div class="col-md-4 text-center">
+            <img [src]="module.icon"
+                [class.modules-container-img-not-selected]="!selected" 
+                class="modules-container-img" 
+                [alt]="module.title">
+
+        </div>
+
+        <div class="col-md-8 px-0">
+            <div class="card-body text-center">
+                <h5 class="card-title">{{ module.title }}</h5>
+        
+                <p class="card-text text-center"><small>{{ module.price | currency:'EGP ' }}</small></p>
+            </div>
+
+        </div>
+    </div>
+
+</div>

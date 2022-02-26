@@ -1,0 +1,18 @@
+<div class="container-fluid">
+    <h2 class="h2 text-color">Our Modules List</h2>
+
+    <div class="row flex-column-reverse flex-lg-row">
+        <div class="col-lg-8 col-sm-12">
+            <div class="row">
+                <div class="col-md-6  my-3" *ngFor="let module of modules">
+                    <mxcd-modules-list-item [module]="module"></mxcd-modules-list-item>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-lg-4 col-sm-12">
+            <mxcd-calculator></mxcd-calculator>
+        </div>
+
+    </div>
+</div>
